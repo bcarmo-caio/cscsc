@@ -11,12 +11,12 @@ This extension prevents it.
 
 ## Installation
 
-1) Using source code:
-   2) Download this repo
-   3) Access `chrome://extensions`
-   4) Turn `Developer mode` on
-   5) Click `Load unpacked`
-   6) select the `src` folder inside this repo
+A) Using source code:
+  1. Download this repo  
+  2. Access `chrome://extensions`  
+  3. Turn `Developer mode` on  
+  4. Click `Load unpacked`  
+  5. Select the `src` folder inside this repo  
 
 
 ---
